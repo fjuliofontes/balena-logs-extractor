@@ -38,6 +38,7 @@ Create a `.env` file in the project root with the following variables:
 ```env
 LOGIN_TOKEN_BALENA=your_balena_token
 SSH_PRIVATE_KEY=your_ssh_private_key
+BALENA_USERNAME=your_balena_account_username
 ```
 
 ### 2. Getting Balena Token
