@@ -1,0 +1,16 @@
+{
+    "name": "extract-balena-logs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "author": "Fernando Fontes",
+    "license": "ISC",
+    "dependencies": {
+      "child_process": "^1.0.2",
+      "dotenv": "^16.0.3",
+      "fs": "0.0.1-security",
+      "nodemon": "^3.1.9",
+      "path": "^0.12.7"
+    }
+  }
+  
